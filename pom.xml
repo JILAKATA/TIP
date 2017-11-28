@@ -46,6 +46,7 @@
         <artifactId>testInProgress-client</artifactId>
         <version>1.5-SNAPSHOT</version>
 	<scope>system</scope>
+	<systemPath>/home/rfmu222/.m2/repository/org/jenkins-ci/plugins</systemPath>
     </dependency>
 
    
